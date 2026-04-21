@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm l4st</h1>
-<h3 align="center">Student of Cyber-security </h3>
-<div> <a href="https://x.com/l4st1337" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
+<h3 align="center">Student of Cyber-security 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/l4st1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="https://x.com/l4st1337" height="30" width="40" /></a></p>
 
